@@ -1,0 +1,14 @@
+[theme]
+# The main accent color (Buttons, Sliders, Highlights)
+primaryColor = "#F4C2C2"
+
+# The main background of the app
+backgroundColor = "#FFFFFF"
+
+# The sidebar and card background color
+secondaryBackgroundColor = "#FFF0F5"
+
+# Main text color (Darker rose for readability)
+textColor = "#5D5D5D"
+
+font = "sans serif"
